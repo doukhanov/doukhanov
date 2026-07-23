@@ -12,7 +12,7 @@
 
 🤖 &nbsp; I like pointing **machine learning** at quantum-hardware problems — closed-loop control, endpoint prediction, and calibration.
 
-🌌 &nbsp; I also work in precision **AMO physics** — simulating Ramsey spectroscopy of the muonium Lamb shift.
+🌌 &nbsp; I also worked in precision **AMO physics** — simulating Ramsey spectroscopy of the muonium Lamb shift.
 
 ### Featured projects
 
