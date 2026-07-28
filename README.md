@@ -2,7 +2,7 @@
 
 ### Hi, I'm Daniel 👋
 
-**Physicist working on superconducting qubits and waveguide QED — and the code that runs the experiments.**
+**Physicist working on superconducting qubits and waveguide QED **
 
 </div>
 
